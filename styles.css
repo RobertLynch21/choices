@@ -19,6 +19,12 @@ body {
     width: 50%;
   }
 
+  h1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
   h2 {
     font-size: 1.5rem;
     margin: 0;
@@ -26,6 +32,10 @@ body {
 
   p {
     margin: 5px 0;
+  }
+  .p-graph {
+    text-align: center;
+    padding-bottom: 20px;
   }
 
   #particleCanvas {
